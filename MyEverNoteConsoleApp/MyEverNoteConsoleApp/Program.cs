@@ -13,6 +13,7 @@ namespace MyEverNoteConsoleApp
             //write code here...
             //write code too...
             //hüseyin
+            //deneme 1
 
             //drireb
         }
