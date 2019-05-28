@@ -20,6 +20,7 @@ namespace MyEverNoteConsoleApp
             //development
             
             //some bug fix...
+            //new coomit
         }
     }
 }
