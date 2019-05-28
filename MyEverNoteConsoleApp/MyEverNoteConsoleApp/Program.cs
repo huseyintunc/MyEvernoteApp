@@ -15,7 +15,7 @@ namespace MyEverNoteConsoleApp
             //hüseyin
             //deneme 1
 
-            //drireb
+            //ana
         }
     }
 }
