@@ -10,6 +10,7 @@ namespace MyEverNoteConsoleApp
     {
         static void Main(string[] args)
         {
+            //write code here...
         }
     }
 }
